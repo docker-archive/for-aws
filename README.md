@@ -1,27 +1,27 @@
-## Docker for AWS
+## Docker CE for AWS
 
-### Getting Docker for AWS
+### Getting Docker CE for AWS
 
-Docker for AWS is free to deploy <a href="https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=Docker&templateURL=https://editions-us-east-1.s3.amazonaws.com/aws/stable/Docker.tmpl" data-rel="Stable-1" target="blank" id="aws-deploy">![Docker for AWS](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)</a>
+"Docker CE for AWS" is free to deploy <a href="https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=Docker&templateURL=https://editions-us-east-1.s3.amazonaws.com/aws/stable/Docker.tmpl" data-rel="Stable-1" target="blank" id="aws-deploy">![Docker CE for AWS](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)</a>
 
 ### Documentation
 
-If you don't understand something about Docker for AWS, the [extensive
+If you don't understand something about Docker CE for AWS, the [extensive
 documentation](https://docs.docker.com/docker-for-aws/) is a great place
 to look for answers.
 
 ### Support
 
-Users from the Docker community trade tips and tricks and discuss Docker
+Users from the Docker CE community trade tips and tricks and discuss Docker CE
 for AWS in [the user forum](https://forums.docker.com/c/docker-for-aws).
 
-Problems with the Docker for AWS deployment can be filed as issues in this
+Problems with the Docker CE for AWS deployment can be filed as issues in this
 ([docker/for-aws](https://github.com/docker/for-aws)) repository.
 
 ### This Repository
 
-This repository contains an issue tracker for Docker for AWS -- an
-integrated Docker experience on AWS. If you find a problem
+This repository contains an issue tracker for Docker CE for AWS -- an
+integrated Docker CE experience on AWS. If you find a problem
 with the software, first [browse the existing
 issues](https://github.com/docker/for-aws/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
